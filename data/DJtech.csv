@@ -1,0 +1,152 @@
+Ticker, Code, Name
+ACIW,GOOG/NASDAQ_ACIW,ACI Worldwide Inc
+APKT,GOOG/NASDAQ_APKT,Acme Packet
+ADTN,GOOG/NASDAQ_ADTN,ADTRAN
+AMD,GOOG/NYSE_AMD,Advanced Micro Devices
+ADVS,GOOG/NASDAQ_ADVS,Advent Software
+AKAM,GOOG/NASDAQ_AKAM,Akamai Technologies
+MDRX,GOOG/NASDAQ_MDRX,Allscripts Healthcare Solutions Inc
+ALTR,GOOG/NASDAQ_ALTR,Altera Corporation
+DOX,GOOG/NYSE_DOX,Amdocs Limited
+ADI,GOOG/NASDAQ_ADI,Analog Devices
+ANSS,GOOG/NASDAQ_ANSS,ANSYS
+AOL,GOOG/NYSE_AOL,AOL
+AAPL,GOOG/NASDAQ_AAPL,Apple Inc.
+AMAT,GOOG/NASDAQ_AMAT,Applied Materials
+ARBA,GOOG/NASDAQ_ARBA,Ariba
+ARRS,GOOG/NASDAQ_ARRS,Arris Group
+ARUN,GOOG/NASDAQ_ARUN,Aruba Networks
+ATHN,GOOG/NASDAQ_ATHN,athenahealth
+ATML,GOOG/NASDAQ_ATML,Atmel Corporation
+ATMI,GOOG/NASDAQ_ATMI,ATMI Inc
+ADSK,GOOG/NASDAQ_ADSK,Autodesk
+BMC,GOOG/NASDAQ_BMC,BMC Software
+CELL,GOOG/NASDAQ_CELL,Brightpoint
+BRCM,GOOG/NASDAQ_BRCM,Broadcom Corporation
+BRCD,GOOG/NASDAQ_BRCD,Brocade Communications Systems
+CA,GOOG/NASDAQ_CA,CA
+CCMP,GOOG/NASDAQ_CCMP,Cabot Microelectronics Corporation
+CACI,GOOG/NYSE_CACI,CACI International Inc
+CDNS,GOOG/NASDAQ_CDNS,Cadence Design Systems Inc
+CAVM,GOOG/NASDAQ_CAVM,Cavium Inc
+CERN,GOOG/NASDAQ_CERN,Cerner Corporation
+CHKP,GOOG/NASDAQ_CHKP,Check Point Software Technologies Ltd.
+CIEN,GOOG/NASDAQ_CIEN,Ciena Corporation
+CSCO,GOOG/NASDAQ_CSCO,Cisco Systems
+CTXS,GOOG/NASDAQ_CTXS,Citrix Systems
+CTSH,GOOG/NASDAQ_CTSH,Cognizant Technology Solutions Corp
+CVLT,GOOG/NASDAQ_CVLT,CommVault Systems
+CSC,GOOG/NYSE_CSC,Computer Sciences Corporation
+CPWR,GOOG/NASDAQ_CPWR,Compuware Corporation
+CMTL,GOOG/NASDAQ_CMTL,Comtech Telecomm. Corp.
+CNQR,GOOG/NASDAQ_CNQR,Concur Technologies
+GLW,GOOG/NYSE_GLW,Corning Incorporated
+CREE,GOOG/NASDAQ_CREE,Cree
+CSGS,GOOG/NASDAQ_CSGS,CSG Systems International
+CYMI,GOOG/NASDAQ_CYMI,Cymer
+CY,GOOG/NASDAQ_CY,Cypress Semiconductor Corporation
+DELL,GOOG/NASDAQ_DELL,Dell Inc.
+DBD,GOOG/NYSE_DBD,Diebold Incorporated
+DRIV,GOOG/NASDAQ_DRIV,Digital River
+DST,GOOG/NYSE_DST,DST Systems
+ELNK,GOOG/NASDAQ_ELNK,EarthLink
+EFII,GOOG/NASDAQ_EFII,Electronics For Imaging
+EMC,GOOG/NYSE_EMC,EMC Corporation
+ELX,GOOG/NYSE_ELX,Emulex Corporation
+EQIX,GOOG/NASDAQ_EQIX,Equinix Inc
+FFIV,GOOG/NASDAQ_FFIV,F5 Networks
+FICO,GOOG/NYSE_FICO,Fair Isaac Corporation
+FCS,GOOG/NYSE_FCS,Fairchild Semiconductor Intl Inc
+FNSR,GOOG/NASDAQ_FNSR,Finisar Corporation
+FTNT,GOOG/NASDAQ_FTNT,Fortinet Inc
+GRMN,GOOG/NASDAQ_GRMN,Garmin Ltd.
+IT,GOOG/NYSE_IT,Gartner Inc
+GOOG,GOOG/NASDAQ_GOOG,Google Inc
+HLIT,GOOG/NASDAQ_HLIT,Harmonic Inc
+HRS,GOOG/NYSE_HRS,Harris Corporation
+HPQ,GOOG/NYSE_HPQ,Hewlett-Packard Company
+HITT,GOOG/NASDAQ_HITT,Hittite Microwave Corp
+IACI,GOOG/NASDAQ_IACI,IAC/InterActiveCorp
+INFA,GOOG/NASDAQ_INFA,Informatica Corporation
+IM,GOOG/NYSE_IM,Ingram Micro Inc.
+NSIT,GOOG/NASDAQ_NSIT,Insight Enterprises
+IDTI,GOOG/NASDAQ_IDTI,Integrated Device Technology Inc
+INTC,GOOG/NASDAQ_INTC,Intel Corporation
+IDCC,GOOG/NASDAQ_IDCC,InterDigital
+ISIL,GOOG/NASDAQ_ISIL,Intersil Corp
+IRF,GOOG/NYSE_IRF,International Rectifier Corporation
+IBM,GOOG/NYSE_IBM,International Business Machines Corporation
+INTU,GOOG/NASDAQ_INTU,Intuit Inc.
+JCOM,GOOG/NASDAQ_JCOM,J2 Global Inc
+JDAS,GOOG/NASDAQ_JDAS,Jda Software Group
+JDSU,GOOG/NASDAQ_JDSU,JDS Uniphase Corp
+JNPR,GOOG/NYSE_JNPR,Juniper Networks
+KLAC,GOOG/NASDAQ_KLAC,KLA-Tencor Corporation
+LRCX,GOOG/NASDAQ_LRCX,Lam Research Corporation
+LXK,GOOG/NYSE_LXK,Lexmark International Inc
+LLTC,GOOG/NASDAQ_LLTC,Linear Technology Corporation
+LSI,GOOG/NASDAQ_LSI,LSI Corp
+MRVL,GOOG/NASDAQ_MRVL,Marvell Technology Group Ltd.
+MXIM,GOOG/NASDAQ_MXIM,Maxim Integrated Products Inc.
+WFR,GOOG/NYSE_WFR,MEMC Electronic Materials
+MENT,GOOG/NASDAQ_MENT,Mentor Graphics Corp
+MCHP,GOOG/NASDAQ_MCHP,Microchip Technology Inc.
+MU,GOOG/NASDAQ_MU,Micron Technology
+MCRS,GOOG/NASDAQ_MCRS,MICROS Systems
+MSCC,GOOG/NASDAQ_MSCC,Microsemi Corporation
+MSFT,GOOG/NASDAQ_MSFT,Microsoft Corporation
+MSI,GOOG/NYSE_MSI,Motorola Solutions Inc
+NCR,GOOG/NYSE_NCR,NCR Corporation
+NTAP,GOOG/NASDAQ_NTAP,NetApp Inc.
+NUAN,GOOG/NASDAQ_NUAN,Nuance Communications Inc.
+NVDA,GOOG/NASDAQ_NVDA,NVIDIA Corporation
+OVTI,GOOG/NASDAQ_OVTI,OmniVision Technologies
+ONNN,GOOG/NASDAQ_ONNN,ON Semiconductor Corp
+ORCL,GOOG/NASDAQ_ORCL,Oracle Corporation
+PMTC,GOOG/NASDAQ_PMTC,PTC Inc
+PBI,GOOG/NYSE_PBI,Pitney Bowes Inc.
+PLT,GOOG/NYSE_PLT,Plantronics
+PMCS,GOOG/NASDAQ_PMCS,PMC-Sierra Inc
+PLCM,GOOG/NASDAQ_PLCM,Polycom Inc
+PRGS,GOOG/NASDAQ_PRGS,Progress Software Corporation
+QLIK,GOOG/NASDAQ_QLIK,Qlik Technologies Inc
+QLGC,GOOG/NASDAQ_QLGC,QLogic Corporation
+QCOM,GOOG/NASDAQ_QCOM,QUALCOMM
+QSII,GOOG/NASDAQ_QSII,Quality Systems
+QSFT,GOOG/NASDAQ_QSFT,Quest Software
+RAX,GOOG/NYSE_RAX,Rackspace Hosting
+RMBS,GOOG/NASDAQ_RMBS,Rambus Inc.
+RHT,GOOG/NYSE_RHT,Red Hat
+RFMD,GOOG/NASDAQ_RFMD,RF Micro Devices
+RVBD,GOOG/NASDAQ_RVBD,Riverbed Technology
+ROVI,GOOG/NASDAQ_ROVI,Rovi Corporation
+SAI,GOOG/NYSE_SAI,SAIC
+CRM,GOOG/NYSE_CRM,salesforce.com
+SNDK,GOOG/NASDAQ_SNDK,SanDisk Corporation
+STX,GOOG/NASDAQ_STX,Seagate Technology PLC
+SMTC,GOOG/NASDAQ_SMTC,Semtech Corporation
+SLAB,GOOG/NASDAQ_SLAB,Silicon Laboratories
+SWKS,GOOG/NASDAQ_SWKS,Skyworks Solutions Inc
+SLH,GOOG/NYSE_SLH,Solera Holdings Inc
+SONS,GOOG/NASDAQ_SONS,Sonus Networks
+SYMC,GOOG/NASDAQ_SYMC,Symantec Corporation
+SYNA,GOOG/NASDAQ_SYNA,Synaptics
+SNPS,GOOG/NASDAQ_SNPS,Synopsys
+TECD,GOOG/NASDAQ_TECD,Tech Data Corp
+TLAB,GOOG/NASDAQ_TLAB,Tellabs
+TDC,GOOG/NYSE_TDC,Teradata Corporation
+TER,GOOG/NYSE_TER,Teradyne
+TSRA,GOOG/NASDAQ_TSRA,Tessera Technologies
+TXN,GOOG/NASDAQ_TXN,Texas Instruments Incorporated
+TIBX,GOOG/NASDAQ_TIBX,Tibco Software Inc.
+TQNT,GOOG/NASDAQ_TQNT,TriQuint Semiconductor
+UIS,GOOG/NYSE_UIS,Unisys Corporation
+PAY,GOOG/NYSE_PAY,VeriFone Systems Inc
+VRSN,GOOG/NASDAQ_VRSN,Verisign
+VSAT,GOOG/NASDAQ_VSAT,ViaSat
+VMW,GOOG/NYSE_VMW,VMware
+WBSN,GOOG/NASDAQ_WBSN,Websense Inc.
+WDC,GOOG/NASDAQ_WDC,Western Digital Corp.
+XRX,GOOG/NYSE_XRX,Xerox Corporation
+XLNX,GOOG/NASDAQ_XLNX,Xilinx
+YHOO,GOOG/NASDAQ_YHOO,Yahoo! Inc.

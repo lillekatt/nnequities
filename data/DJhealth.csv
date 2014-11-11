@@ -1,0 +1,102 @@
+Ticker, Code, Name
+JNJ,GOOG/NYSE_JNJ,Johnson &amp; Johnson
+PFE,GOOG/NYSE_PFE,Pfizer Inc.
+GILD,GOOG/NASDAQ_GILD,Gilead Sciences
+MRK,GOOG/NYSE_MRK,Merck &amp; Co.
+AMGN,GOOG/NASDAQ_AMGN,Amgen
+BMY,GOOG/NYSE_BMY,Bristol Myers Squibb Co.
+ABBV,GOOG/NYSE_ABBV,AbbVie Inc
+UNH,GOOG/NYSE_UNH,UnitedHealth Group Inc.
+CELG,GOOG/NASDAQ_CELG,Celgene Corporation
+BIIB,GOOG/NASDAQ_BIIB,Biogen Idec Inc.
+MDT,GOOG/NYSE_MDT,Medtronic
+LLY,GOOG/NYSE_LLY,Eli Lilly &amp; Co.
+ABT,GOOG/NYSE_ABT,Abbott Laboratories
+ACT,GOOG/NYSE_ACT,Actavis Inc
+ESRX,GOOG/NASDAQ_ESRX,Express Scripts Holding Company
+AGN,GOOG/NYSE_AGN,Allergan
+TMO,GOOG/NYSE_TMO,Thermo Fisher Scientific Inc.
+COV,GOOG/NYSE_COV,Covidien plc
+ALXN,GOOG/NASDAQ_ALXN,Alexion Pharmaceuticals
+BAX,GOOG/NYSE_BAX,Baxter International Inc.
+WLP,GOOG/NYSE_WLP,WellPoint
+REGN,GOOG/NASDAQ_REGN,Regeneron Pharmaceuticals Inc
+AET,GOOG/NYSE_AET,Aetna Inc.
+ILMN,GOOG/NASDAQ_ILMN,Illumina
+VRTX,GOOG/NASDAQ_VRTX,Vertex Pharmaceuticals Incorporated
+SYK,GOOG/NYSE_SYK,Stryker Corporation
+CI,GOOG/NYSE_CI,CIGNA Corporation
+BDX,GOOG/NYSE_BDX,Becton
+PRGO,GOOG/NASDAQ_PRGO,Perrigo Company
+HUM,GOOG/NYSE_HUM,Humana Inc
+HCA,GOOG/NYSE_HCA,HCA Holdings Inc
+MYL,GOOG/NASDAQ_MYL,Mylan Inc.
+ZTS,GOOG/NYSE_ZTS,Zoetis Inc
+ZMH,GOOG/NYSE_ZMH,Zimmer Holdings
+STJ,GOOG/NYSE_STJ,St. Jude Medical
+ISRG,GOOG/NASDAQ_ISRG,Intuitive Surgical
+BSX,GOOG/NYSE_BSX,Boston Scientific Corporation
+DVA,GOOG/NYSE_DVA,DaVita HealthCare Partners Inc
+EW,GOOG/NYSE_EW,Edwards Lifesciences Corp
+BMRN,GOOG/NASDAQ_BMRN,BioMarin Pharmaceutical Inc.
+BCR,GOOG/NYSE_BCR,C.R. Bard
+CFN,GOOG/NYSE_CFN,CareFusion Corporation
+HSIC,GOOG/NASDAQ_HSIC,Henry Schein
+JAZZ,GOOG/NASDAQ_JAZZ,Jazz Pharmaceuticals plc - Ordinary Shares
+ENDP,GOOG/NASDAQ_ENDP,Endo Health Solutions Inc
+INCY,GOOG/NASDAQ_INCY,Incyte Corporation
+UHS,GOOG/NYSE_UHS,Universal Health Services
+WAT,GOOG/NYSE_WAT,Waters Corporation
+SLXP,GOOG/NASDAQ_SLXP,Salix Pharmaceuticals
+PCYC,GOOG/NASDAQ_PCYC,Pharmacyclics
+COO,GOOG/NYSE_COO,The Cooper Companies
+MDVN,GOOG/NASDAQ_MDVN,Medivation Inc
+ALKS,GOOG/NASDAQ_ALKS,Alkermes Plc
+RMD,GOOG/NYSE_RMD,ResMed Inc.
+IDXX,GOOG/NASDAQ_IDXX,IDEXX Laboratories
+XRAY,GOOG/NASDAQ_XRAY,DENTSPLY International Inc.
+HOLX,GOOG/NASDAQ_HOLX,Hologic
+ALNY,GOOG/NASDAQ_ALNY,Alnylam Pharmaceuticals
+MD,GOOG/NYSE_MD,Mednax Inc.
+CYH,GOOG/NYSE_CYH,Community Health Systems
+UTHR,GOOG/NASDAQ_UTHR,United Therapeutics Corporation
+BKD,GOOG/NYSE_BKD,Brookdale Senior Living
+CBST,GOOG/NASDAQ_CBST,Cubist Pharmaceuticals Inc
+THC,GOOG/NYSE_THC,Tenet Healthcare Corp
+ISIS,GOOG/NASDAQ_ISIS,ISIS Pharmaceuticals
+CNC,GOOG/NYSE_CNC,Centene Corp
+PBYI,GOOG/NYSE_PBYI,Puma Biotechnology Inc
+TFX,GOOG/NYSE_TFX,Teleflex Incorporated
+ALGN,GOOG/NASDAQ_ALGN,Align Technology
+CPHD,GOOG/NASDAQ_CPHD,Cepheid
+PDCO,GOOG/NASDAQ_PDCO,Patterson Companies
+STE,GOOG/NYSE_STE,STERIS Corp
+WST,GOOG/NYSE_WST,West Pharmaceutical Services Inc.
+SGEN,GOOG/NASDAQ_SGEN,Seattle Genetics
+HLS,GOOG/NYSE_HLS,HealthSouth Corp
+TECH,GOOG/NASDAQ_TECH,Techne Corporation
+PCRX,GOOG/NASDAQ_PCRX,Pacira Pharmaceuticals Inc
+DXCM,GOOG/NASDAQ_DXCM,DexCom
+LPNT,GOOG/NASDAQ_LPNT,LifePoint Hospitals
+AKRX,GOOG/NASDAQ_AKRX,Akorn
+ICPT,GOOG/NASDAQ_ICPT,Intercept Pharmaceuticals Inc
+ALR,GOOG/NYSE_ALR,Alere Inc
+CRL,GOOG/NYSE_CRL,Charles River Laboratories
+PRXL,GOOG/NASDAQ_PRXL,PAREXEL International Corporation
+WCG,GOOG/NYSE_WCG,WellCare Health Plans
+MYGN,GOOG/NASDAQ_MYGN,Myriad Genetics
+NPSP,GOOG/NASDAQ_NPSP,NPS Pharmaceuticals
+ACHC,GOOG/NASDAQ_ACHC,Acadia Healthcare Company Inc
+HRC,GOOG/NYSE_HRC,Hill-Rom Holdings
+BIO,GOOG/NYSE_BIO,Bio-Rad Laboratories
+BRKR,GOOG/NASDAQ_BRKR,Bruker Corporation
+HCSG,GOOG/NASDAQ_HCSG,Healthcare Services Group
+OMI,GOOG/NYSE_OMI,Owens &amp; Minor
+HAE,GOOG/NYSE_HAE,Haemonetics Corporation
+HMSY,GOOG/NASDAQ_HMSY,HMS Holdings Corp.
+IPXL,GOOG/NASDAQ_IPXL,Impax Laboratories Inc
+MGLN,GOOG/NASDAQ_MGLN,Magellan Health Services Inc
+MNKD,GOOG/NASDAQ_MNKD,MannKind Corporation
+PDLI,GOOG/NASDAQ_PDLI,PDL BioPharma Inc.
+THRX,GOOG/NASDAQ_THRX,Theravance Inc
+THOR,GOOG/NASDAQ_THOR,Thoratec Corporation 
